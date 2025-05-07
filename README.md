@@ -63,7 +63,7 @@ Enjoy the retro arcade feel with touch-panel interaction, sound effects, and a s
 
 ## 📄 License
 
-MIT License
+License.txt
 
 ---
 
