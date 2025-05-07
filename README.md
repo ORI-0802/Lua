@@ -10,7 +10,7 @@ Enjoy the retro arcade feel with touch-panel interaction, sound effects, and a s
 - Score tracking and win/loss conditions
 - Game start and reset buttons
 - Sound effects and background music
-- Space-themed visuals with Star Wars-style icons 👾🐸
+- Can be Space-themed visuals with Star Wars-style icons 👾🐸
 
 ## 🛠 Requirements
 
