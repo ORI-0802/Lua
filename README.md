@@ -57,8 +57,7 @@ Enjoy the retro arcade feel with touch-panel interaction, sound effects, and a s
 - High score tracking
 
 ## 📸 Screenshot (optional)
-<img width="364" alt="Game" src="https://github.com/user-attachments/assets/a922fc5f-4dcd-425b-a4bb-985e7090679c" />
-> ![image](https://github.com/user-attachments/assets/1c131a7d-2945-4b44-90ef-37f7a73083b9)
+<img width="500" alt="Game" src="https://github.com/user-attachments/assets/a922fc5f-4dcd-425b-a4bb-985e7090679c" />
 
 
 ## 📄 License
